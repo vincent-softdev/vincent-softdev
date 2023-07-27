@@ -8,6 +8,7 @@
 - 📫 How to reach me: vinh.ly.softdev@gmail.com
 - 😄 Pronouns: Davin, Ly
 - ⚡ Fun fact: I love novel, manga
+- Practicing: S.O.L.i.D pattern, MVP pattern, Centralized state management.
 
 ### Top Technologies
 
