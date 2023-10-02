@@ -2,11 +2,11 @@
 
 ### What I currently Do
 
-
 - 🔭 I’m currently working at @Deltacognition
 - 🌱 I’m currently learning Design Patterns and Clean Code for Python, Typescript, Flutter Dart
 - 📫 How to reach me: vinh.ly.softdev@gmail.com
 - 😄 Pronouns: Davin, Ly
+- 😄 Qualification: I graduated in Swinburne University of Technology with distinction in Bachelor of Software Engineer
 - ⚡ Fun fact: I love novel, manga
 - Practicing: S.O.L.i.D pattern, MVP pattern, Centralized state management.
 
