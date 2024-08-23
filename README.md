@@ -2,7 +2,7 @@
 
 ### What I currently Do
 
-- 🔭 I’m currently working at @Deltacognition
+- 🔭 I’m currently seeking for Job as Software Engineer in Adelaide, Australia
 - 🌱 I’m currently learning Design Patterns and Clean Code for Python, Typescript, Flutter Dart
 - 📫 How to reach me: vinh.ly.softdev@gmail.com
 - 😄 Pronouns: Davin, Ly
