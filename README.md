@@ -23,7 +23,7 @@
 
 
 ### Resume
-- 📎 [My CV](https://github.com/davin-softdev/davin-softdev/blob/main/resume/TheVinhLy_2023_CV.pdf)
+- 📎 [My CV](https://github.com/davin-softdev/davin-softdev/blob/main/resume/Vincent_Ly_CV.pdf)
   
 <!--
 **davin-softdev/davin-softdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
