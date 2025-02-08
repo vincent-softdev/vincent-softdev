@@ -1,6 +1,13 @@
 # 💫 About Me:
-I am currently seeking IT work based in Adelaide or remote work within Australia, as I am living in Adelaide.
+Hi there! 👋 I'm a Full-Stack Developer with 2 years of experience specializing in both web and mobile development. My expertise spans across multiple domains, including web development, mobile applications, backend systems, and artificial intelligence.
 
+With a background in Software Engineering and a strong foundation in AI and Machine Learning, I strive to build high-quality, scalable applications that enhance user experience. I have experience working in startup environments, where adaptability and efficiency are key to delivering robust software solutions.
+
+What I’m Working On:
+🔹 Developing and optimizing mobile apps using Flutter
+🔹 Building scalable and secure backend services with Laravel
+
+I love solving complex problems and continuously learning new technologies to improve my craft. Feel free to connect or check out my projects! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Vincent Ly](https://www.linkedin.com/in/the-vinh-ly/)) 
