@@ -5,6 +5,7 @@ With a background in Software Engineering and a strong foundation in AI and Mach
 
 ## What I’m Working On:
 🔹 Developing and optimizing mobile apps using Flutter
+
 🔹 Building scalable and secure backend services with Laravel
 
 I love solving complex problems and continuously learning new technologies to improve my craft. Feel free to connect or check out my projects! 🚀
