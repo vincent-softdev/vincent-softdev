@@ -8,7 +8,7 @@ With a background in Software Engineering and a strong foundation in AI and Mach
 
 🔹 Building scalable and secure backend services with Laravel
 
-🔹 Playing with Leetcode: 30 Days of JavaScript (7/35)
+🔹 Playing with Leetcode: 30 Days of JavaScript (11/35)
 
 I love solving complex problems and continuously learning new technologies to improve my craft. Feel free to connect or check out my projects! 🚀
 
