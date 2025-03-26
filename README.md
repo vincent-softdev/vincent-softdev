@@ -12,6 +12,8 @@ With a background in Software Engineering and a strong foundation in AI and Mach
 
 🔹 Playing with Leetcode: SQL 50 (4/50)
 
+🔹 Leetcode rank: 3,487,474
+
 I love solving complex problems and continuously learning new technologies to improve my craft. Feel free to connect or check out my projects! 🚀
 
 ## 🌐 Socials:
