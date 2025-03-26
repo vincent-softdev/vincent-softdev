@@ -10,7 +10,7 @@ With a background in Software Engineering and a strong foundation in AI and Mach
 
 🔹 Playing with Leetcode: 30 Days of JavaScript (13/35)
 
-🔹 Playing with Leetcode: SQL 50 (2/50)
+🔹 Playing with Leetcode: SQL 50 (4/50)
 
 I love solving complex problems and continuously learning new technologies to improve my craft. Feel free to connect or check out my projects! 🚀
 
