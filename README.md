@@ -15,6 +15,7 @@ With a background in Software Engineering and a strong foundation in AI and Mach
 🔹 Leetcode rank: 
 - 27 Mar 2025: 3,139,936
 - 29 Mar 2025: 2,927,416
+- 30 Mar 2025: Biweekly Contest 153 ranking 12367/26543
 
 I love solving complex problems and continuously learning new technologies to improve my craft. Feel free to connect or check out my projects! 🚀
 
