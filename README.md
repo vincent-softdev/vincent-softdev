@@ -10,7 +10,7 @@ With a background in Software Engineering and a strong foundation in AI and Mach
 
 🔹 Playing with Leetcode: 30 Days of JavaScript (13/35)
 
-🔹 Playing with Leetcode: SQL 50 (4/50)
+🔹 Playing with Leetcode: SQL 50 (8/50)
 
 🔹 Leetcode rank: 
 - 27 Mar 2025: 3,139,936
