@@ -20,7 +20,7 @@ With a background in Software Engineering and a strong foundation in AI and Mach
 - 03 Apr 2025: 2,423,811
 
 🔹 Biweekly Contest ranking
-- 30 Mar 2025: 153 ranking 12367/26543
+- 30 Mar 2025: 153 ranking 12367/26543 - contest rating: 1485
 
 I love solving complex problems and continuously learning new technologies to improve my craft. Feel free to connect or check out my projects! 🚀
 
