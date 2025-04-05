@@ -18,6 +18,7 @@ With a background in Software Engineering and a strong foundation in AI and Mach
 - 30 Mar 2025: 2,750,187
 - 01 Apr 2025: 2,459,875
 - 03 Apr 2025: 2,423,811
+- 05 Apr 2025: 2,309,738
 
 🔹 Biweekly Contest ranking
 - 30 Mar 2025: 153 ranking 12367/26543 - contest rating: 1485
