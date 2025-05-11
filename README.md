@@ -12,18 +12,6 @@ With a background in Software Engineering and a strong foundation in AI and Mach
 
 🔹 Playing with Leetcode: SQL 50 (8/50)
 
-🔹 Leetcode rank: 
-- 27 Mar 2025: 3,139,936
-- 29 Mar 2025: 2,927,416
-- 30 Mar 2025: 2,750,187
-- 01 Apr 2025: 2,459,875
-- 03 Apr 2025: 2,423,811
-- 05 Apr 2025: 2,309,738
-- 14 Apr 2025: 2,187,485
-
-🔹 Biweekly Contest ranking
-- 30 Mar 2025: 153 ranking 12367/26543 - contest rating: 1485
-
 I love solving complex problems and continuously learning new technologies to improve my craft. Feel free to connect or check out my projects! 🚀
 
 ## 🌐 Socials:
